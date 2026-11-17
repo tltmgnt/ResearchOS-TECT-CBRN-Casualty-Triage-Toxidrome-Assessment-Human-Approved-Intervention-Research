@@ -1,0 +1,2 @@
+# ResearchOS-TECT-CBRN-Casualty-Triage-Toxidrome-Assessment-Human-Approved-Intervention-Research
+ResearchOS TECT explores autonomous CBRN casualty localization, vital-sign assessment, trauma triage, and recognition of five toxidrome categories. Supports simulation and manikin testing of human-approved interventions, responder interfaces, safe failure, and multi-casualty response across challenging environments.
