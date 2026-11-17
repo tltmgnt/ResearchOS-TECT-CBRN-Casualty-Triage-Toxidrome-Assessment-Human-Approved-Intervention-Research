@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "mode": "simulation",
+  "name": "Synthetic 20-manikin tabletop",
+  "source": "User-supplied TRIAGE-X Tables 1–3; fictional authored scenarios, not clinical measurements.",
+  "payloadUnits": 5,
+  "cases": [
+    {
+      "id": "SIM-01",
+      "kind": "synthetic-manikin",
+      "x": 0,
+      "y": 0,
+      "truthCategory": "cholinergic",
+      "truthTriage": "non-urgent",
+      "observations": "Wet clothing/ground; miosis; cough; simulated respiratory rate >30; simulated pulse <40; emesis; damp skin."
+    },
+    {
+      "id": "SIM-02",
+      "kind": "synthetic-manikin",
+      "x": 6,
+      "y": 0,
+      "truthCategory": "blood-agent",
+      "truthTriage": "urgent",
+      "observations": "Cough; simulated respiratory rate >30; confusion; flushed skin; mydriasis."
+    },
+    {
+      "id": "SIM-03",
+      "kind": "synthetic-manikin",
+      "x": 12,
+      "y": 0,
+      "truthCategory": "pulmonary",
+      "truthTriage": "urgent",
+      "observations": "Cough; simulated respiratory rate >30; irritated eyes; lung-sound wheeze; cyanosis around lips."
+    },
+    {
+      "id": "SIM-04",
+      "kind": "synthetic-manikin",
+      "x": 18,
+      "y": 0,
+      "truthCategory": "vesicant",
+      "truthTriage": "non-urgent",
+      "observations": "Gelatin on simulated skin; blisters/burns; cough; simulated respiratory rate >20."
+    },
+    {
+      "id": "SIM-05",
+      "kind": "synthetic-manikin",
+      "x": 24,
+      "y": 0,
+      "truthCategory": "opioid",
+      "truthTriage": "urgent",
+      "observations": "Miosis; simulated respiratory rate <10; unresponsive manikin."
+    },
+    {
+      "id": "SIM-06",
+      "kind": "synthetic-manikin",
+      "x": 0,
+      "y": 8,
+      "truthCategory": "cholinergic",
+      "truthTriage": "urgent",
+      "observations": "Wet clothing/ground; miosis; cough; simulated respiratory rate >30; simulated pulse <40; emesis; damp skin."
+    },
+    {
+      "id": "SIM-07",
+      "kind": "synthetic-manikin",
+      "x": 6,
+      "y": 8,
+      "truthCategory": "blood-agent",
+      "truthTriage": "non-urgent",
+      "observations": "Cough; simulated respiratory rate >30; confusion; flushed skin; mydriasis."
+    },
+    {
+      "id": "SIM-08",
+      "kind": "synthetic-manikin",
+      "x": 12,
+      "y": 8,
+      "truthCategory": "pulmonary",
+      "truthTriage": "urgent",
+      "observations": "Cough; simulated respiratory rate >30; irritated eyes; lung-sound wheeze; cyanosis around lips."
+    },
+    {
+      "id": "SIM-09",
+      "kind": "synthetic-manikin",
+      "x": 18,
+      "y": 8,
+      "truthCategory": "vesicant",
+      "truthTriage": "urgent",
+      "observations": "Gelatin on simulated skin; blisters/burns; cough; simulated respiratory rate >20."
+    },
+    {
+      "id": "SIM-10",
+      "kind": "synthetic-manikin",
+      "x": 24,
+      "y": 8,
+      "truthCategory": "opioid",
+      "truthTriage": "non-urgent",
+      "observations": "Miosis; simulated respiratory rate <10; unresponsive manikin."
+    },
+    {
+      "id": "SIM-11",
+      "kind": "synthetic-manikin",
+      "x": 0,
+      "y": 16,
+      "truthCategory": "cholinergic",
+      "truthTriage": "urgent",
+      "observations": "Wet clothing/ground; miosis; cough; simulated respiratory rate >30; simulated pulse <40; emesis; damp skin."
+    },
+    {
+      "id": "SIM-12",
+      "kind": "synthetic-manikin",
+      "x": 6,
+      "y": 16,
+      "truthCategory": "blood-agent",
+      "truthTriage": "urgent",
+      "observations": "Cough; simulated respiratory rate >30; confusion; flushed skin; mydriasis."
+    },
+    {
+      "id": "SIM-13",
+      "kind": "synthetic-manikin",
+      "x": 12,
+      "y": 16,
+      "truthCategory": "pulmonary",
+      "truthTriage": "non-urgent",
+      "observations": "Cough; simulated respiratory rate >30; irritated eyes; lung-sound wheeze; cyanosis around lips."
+    },
+    {
+      "id": "SIM-14",
+      "kind": "synthetic-manikin",
+      "x": 18,
+      "y": 16,
+      "truthCategory": "vesicant",
+      "truthTriage": "urgent",
+      "observations": "Gelatin on simulated skin; blisters/burns; cough; simulated respiratory rate >20."
+    },
+    {
+      "id": "SIM-15",
+      "kind": "synthetic-manikin",
+      "x": 24,
+      "y": 16,
+      "truthCategory": "opioid",
+      "truthTriage": "urgent",
+      "observations": "Miosis; simulated respiratory rate <10; unresponsive manikin."
+    },
+    {
+      "id": "SIM-16",
+      "kind": "synthetic-manikin",
+      "x": 0,
+      "y": 24,
+      "truthCategory": "cholinergic",
+      "truthTriage": "non-urgent",
+      "observations": "Wet clothing/ground; miosis; cough; simulated respiratory rate >30; simulated pulse <40; emesis; damp skin."
+    },
+    {
+      "id": "SIM-17",
+      "kind": "synthetic-manikin",
+      "x": 6,
+      "y": 24,
+      "truthCategory": "blood-agent",
+      "truthTriage": "urgent",
+      "observations": "Cough; simulated respiratory rate >30; confusion; flushed skin; mydriasis."
+    },
+    {
+      "id": "SIM-18",
+      "kind": "synthetic-manikin",
+      "x": 12,
+      "y": 24,
+      "truthCategory": "pulmonary",
+      "truthTriage": "urgent",
+      "observations": "Cough; simulated respiratory rate >30; irritated eyes; lung-sound wheeze; cyanosis around lips."
+    },
+    {
+      "id": "SIM-19",
+      "kind": "synthetic-manikin",
+      "x": 18,
+      "y": 24,
+      "truthCategory": "vesicant",
+      "truthTriage": "non-urgent",
+      "observations": "Gelatin on simulated skin; blisters/burns; cough; simulated respiratory rate >20."
+    },
+    {
+      "id": "SIM-20",
+      "kind": "synthetic-manikin",
+      "x": 24,
+      "y": 24,
+      "truthCategory": "unknown",
+      "truthTriage": "urgent",
+      "observations": "Conflicting simulated cues; category intentionally unknown."
+    }
+  ]
+}
