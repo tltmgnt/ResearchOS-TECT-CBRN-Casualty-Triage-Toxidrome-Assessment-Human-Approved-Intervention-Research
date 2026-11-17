@@ -1,0 +1,1 @@
+{"name":"researchos-tect-cbrn-simulation","version":"0.1.0","type":"module","private":true,"engines":{"node":">=22"},"scripts":{"test":"node --test tests/*.test.mjs","build":"node scripts/build.mjs","check":"node --check src/engine.mjs && node --check src/app.mjs && node --check cli.mjs && npm test && npm run build"}}
